@@ -35,7 +35,7 @@ A simple snake game built with Python's `turtle` module, inspired by the classic
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/tommynguyenn53/snake-game.git
 cd snake-game
 
 ```
