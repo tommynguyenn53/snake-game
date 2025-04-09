@@ -14,6 +14,22 @@ A simple snake game built with Python's `turtle` module, inspired by the classic
 - The game automatically resets if a collision occurs.
 - Your highest score is saved in a `data.txt` file and displayed on-screen.
 
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/tommynguyenn53/snake-game.git
+cd snake-game
+
+```
+
+## 🎮 Running the Game
+Make sure you have Python 3 installed, then run:
+```bash
+python3 main.py 
+```
+
 ## 📦 Features
 
 - Real-time snake movement and control
@@ -30,18 +46,4 @@ A simple snake game built with Python's `turtle` module, inspired by the classic
 
 
 
-## 🚀 Getting Started
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/tommynguyenn53/snake-game.git
-cd snake-game
-
-```
-
-## 🎮 Running the Game
-Make sure you have Python 3 installed, then run:
-```bash
-python3 main.py 
-```
